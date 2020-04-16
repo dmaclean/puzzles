@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e4ec832-9413-4529-b14d-03db72a4eb91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codingame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingame/aneo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingame/aneo/aneo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingame/aneo/input/01_the_village_traffic_light.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingame/aneo/input/05_unsettled_country_road.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingame/aneo/input/07_german_highway.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/points_in_a_plane/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1acYW4XtCpEElqFymJqwF1r0kFO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/codingame" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e4ec832-9413-4529-b14d-03db72a4eb91" name="Default Changelist" comment="" />
+      <created>1587036377348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587036377348</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/aneo" />
+      <path value="$PROJECT_DIR$/codingame/aneo" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2274" y="154" key="CommitChangelistDialog2" timestamp="1587036709283">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2274" y="154" key="CommitChangelistDialog2/0.23.1680.972/-1920.23.1920.1057/1680.23.1920.1057@1680.23.1920.1057" timestamp="1587036709283" />
+    <state x="2149" y="190" key="SettingsEditor" timestamp="1587036747752">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2149" y="190" key="SettingsEditor/0.23.1680.972/-1920.23.1920.1057/1680.23.1920.1057@1680.23.1920.1057" timestamp="1587036747752" />
+  </component>
+</project>
