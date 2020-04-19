@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e4ec832-9413-4529-b14d-03db72a4eb91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codingame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codingame/aneo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codingame/aneo/aneo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codingame/aneo/input/01_the_village_traffic_light.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codingame/aneo/input/05_unsettled_country_road.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codingame/aneo/input/07_german_highway.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/points_in_a_plane/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/points_in_a_plane/input/input00.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/points_in_a_plane/pp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codingame.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +36,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hackerrank/points_in_a_plane/input" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hackerrank/points_in_a_plane/input" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/codingame" />
     </key>
@@ -59,19 +58,42 @@
       <option name="presentableId" value="Default" />
       <updated>1587036377348</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1587036874660</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587036874660</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add .gitignore">
+      <created>1587036952735</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587036952735</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/aneo" />
       <path value="$PROJECT_DIR$/codingame/aneo" />
     </ignored-roots>
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Add .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add .gitignore" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2274" y="154" key="CommitChangelistDialog2" timestamp="1587036709283">
+    <state x="2078" y="154" width="1282" height="812" key="CommitChangelistDialog2" timestamp="1587036952635">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
-    <state x="2274" y="154" key="CommitChangelistDialog2/0.23.1680.972/-1920.23.1920.1057/1680.23.1920.1057@1680.23.1920.1057" timestamp="1587036709283" />
+    <state x="2078" y="154" width="1282" height="812" key="CommitChangelistDialog2/0.23.1680.972/-1920.23.1920.1057/1680.23.1920.1057@1680.23.1920.1057" timestamp="1587036952635" />
     <state x="2149" y="190" key="SettingsEditor" timestamp="1587036747752">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
